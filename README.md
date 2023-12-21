@@ -5,21 +5,23 @@ Sendo dividido em  um cabeçalho simples com uma área de navegação entre as p
 
 <h2>Cabealho do site</h2>
 
-![Capturar](https://github.com/gabrielfj08/Exemplo-site-Loja/assets/98466182/a169ac09-dd0c-4ddb-a6fe-ae7ddcc0f5e8)
+![Capturar](https://github.com/gabrielfj08/Site-Loja/assets/98466182/198734a5-5a37-44a4-bc52-23897b5c5ab4)
+
 
 <hr/>
 
 <h2>Corpo do site</h2>
 
-![Capturar corpo 1](https://github.com/gabrielfj08/Exemplo-site-Loja/assets/98466182/0996764e-38f0-4f8c-8363-b201611b5fe2)
+![Capturar corpo 1](https://github.com/gabrielfj08/Site-Loja/assets/98466182/d4cb9f18-d878-4979-810b-ac1bf2e30f16)
 
-![Capturar corpo 2](https://github.com/gabrielfj08/Exemplo-site-Loja/assets/98466182/5dd5bffc-13c1-41ab-af2e-b8f97e6f19b2)
+![Capturar corpo 2](https://github.com/gabrielfj08/Site-Loja/assets/98466182/74a90fb5-61d7-462a-bcd8-638f30aeaece)
 
 <hr>
 
 <h2>Rodapé</h2>
 
-![Capturar rodapé](https://github.com/gabrielfj08/Exemplo-site-Loja/assets/98466182/01b59102-e697-4d2e-88e7-f840a879fe58)
+![Capturar rodapé](https://github.com/gabrielfj08/Site-Loja/assets/98466182/b932fa5e-302e-46e8-a30c-9bed88ff4df0)
+
 
 <p>Neste mesmo repositório você poderá encontrar os códigos do meu site, tanto o HTML (index_exemplo_loja) quanto o CSS (style).</p>
 
